@@ -33,18 +33,9 @@ Estudiante de ESO · Desarrollador web en formación · Desde Madrid, España �
 
 ---
 
-### 📈 Stats (opcional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martingomezacebo&show_icons=true&theme=dark" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martingomezacebo&layout=compact&theme=dark" width="45%">
-</p>
-
----
-
-### 📫 Cómo contactarme
+### 📫 Contacto
 
 - 📧 Email: martin.gomez.acebo@gmail.com
-- 🌐 Web personal: martin-gomez-acebo@gmail.com
+- 🌐 Portfolio: martin-gomez-acebo@gmail.com
 
 ---
